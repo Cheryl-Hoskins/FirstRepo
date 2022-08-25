@@ -2,3 +2,4 @@ Hello World!
 This is a text file.
 
 Squash commit #1.
+Squash commit #2.
