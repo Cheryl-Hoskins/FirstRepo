@@ -4,3 +4,5 @@ This is a text file.
 Squash commit #1.
 Squash commit #2.
 Squash commit #3.
+
+change made directly to master branch in github. Creates conflic.
